@@ -7,9 +7,9 @@
    
    <name> app5 Advertencias del Dispositivo</name>
    
-   <descrption>
+   <description>
    Aplicación que realiza la vibracion y beep del Dispositivo
-   </descrption>
+   </description>
    
    <author href="https://build.phonegap.com" email="1475.llsg@gmail.com">
    Lisette Linda Saavedra Garcia
